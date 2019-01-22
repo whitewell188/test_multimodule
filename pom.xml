@@ -47,7 +47,7 @@
                 <plugin>
                     <groupId>com.itemis.maven.plugins</groupId>
                     <artifactId>unleash-maven-plugin</artifactId>
-                    <version>${unleash-maven-version}</version>
+                    <version>2.7.4</version>
                     <dependencies>
                         <dependency>
                             <groupId>com.itemis.maven.plugins</groupId>
