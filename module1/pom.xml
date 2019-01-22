@@ -3,11 +3,11 @@
     <parent>
         <artifactId>test_multimodule</artifactId>
         <groupId>neal</groupId>
-        <version>1.5-SNAPSHOT</version>
+        <version>1.5</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <version>1.5-SNAPSHOT</version>
+    <version>1.5</version>
     <artifactId>module1</artifactId>
 
 
