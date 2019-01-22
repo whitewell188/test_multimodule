@@ -5,7 +5,7 @@
     <groupId>neal</groupId>
     <artifactId>test_multimodule</artifactId>
     <packaging>pom</packaging>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.5-SNAPSHOT</version>
 
     <scm>
         <!--<connection>scm:git:https://github.com/whitewell188/test_multimodule.git</connection>-->
