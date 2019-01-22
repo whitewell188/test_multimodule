@@ -28,7 +28,7 @@
         </repository>
         <snapshotRepository>
             <id>libs-snapshot</id>
-            <url>http://localhost:8081/artifactory/libs-snapshot</url>
+            <url>http://jfrog:8081/artifactory/libs-snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
