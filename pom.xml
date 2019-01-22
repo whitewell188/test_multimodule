@@ -5,7 +5,7 @@
     <groupId>neal</groupId>
     <artifactId>test_multimodule</artifactId>
     <packaging>pom</packaging>
-    <version>1.2</version>
+    <version>1.2-SNAPSHOT</version>
 
     <scm>
         <!--<connection>scm:git:https://github.com/whitewell188/test_multimodule.git</connection>-->
@@ -24,7 +24,7 @@
     <distributionManagement>
         <repository>
             <id>libs-release</id>
-            <url>http://localhost:8081/artifactory/libs-release</url>
+            <url>http://jfrog:8081/artifactory/libs-release</url>
         </repository>
         <snapshotRepository>
             <id>libs-snapshot</id>
