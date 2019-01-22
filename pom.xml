@@ -22,4 +22,15 @@
         <module>module1</module>
         <module>module2</module>
     </modules>
+
+    <distributionManagement>
+        <repository>
+            <id>libs-release</id>
+            <url>http://localhost:8081/artifactory/libs-release</url>
+        </repository>
+        <snapshotRepository>
+            <id>libs-snapshot</id>
+            <url>http://localhost:8081/artifactory/libs-snapshot</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
