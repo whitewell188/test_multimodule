@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <version>1.6-SNAPSHOT</version>
+    <version>1.4.5-SNAPSHOT</version>
     <artifactId>module2</artifactId>
 
 
