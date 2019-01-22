@@ -12,7 +12,8 @@
     <scm>
         <connection>scm:git:https://github.com/whitewell188/test_multimodule.git</connection>
         <!--<connection>scm:git:git@github.com:whitewell188/test_multimodule.git</connection>-->
-        <developerConnection>scm:git:git@github.com:whitewell188/test_multimodule.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/whitewell188/test_multimodule.git</developerConnection>
+        <!--<developerConnection>scm:git:git@github.com:whitewell188/test_multimodule.git</developerConnection>-->
         <url>https://github.com/whitewell188/test_multimodule</url>
         <tag>HEAD</tag>
     </scm>
